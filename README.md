@@ -9,7 +9,7 @@
 
 Computer science student @ TU Wien with specialization in AI & ML. Dedicated to building with AI Agents, RAG, and MCP. Passionate about creating intelligent systems that do more than just chat.
 
-### Projects
+### Recent Projects
 
 - **[Agentic RAG Chatbot](https://github.com/etaaa/agentic-rag-chatbot)**: Self-correcting RAG agent for high-precision medical catalog retrieval.
 - **[MCQ Pipeline](https://github.com/etaaa/mcq-pipeline)**: Automated MCQ generator and evaluator for lecture materials using LangChain.
