@@ -12,12 +12,12 @@ Computer science student @ TU Wien with specialization in AI & ML. Dedicated to 
 ### Projects
 
 - **[Agentic RAG Chatbot](https://github.com/etaaa/agentic-rag-chatbot)**: Intelligent, self-correcting RAG agent designed for high-precision medical catalog retrieval.
-- **[MCQ Pipeline](https://github.com/etaaa/mcq-pipeline)**: A system to automatically generate and evaluate multiple-choice questions from lecture materials using LangChain and LLMs.
-- **[MCP API Client](https://github.com/etaaa/mcp-api-client)**: Postman for LLMs. A specialized, resource-efficient MCP server designed for rapid REST API testing and exploration.
-- **[n8n AI Agent Workflow](https://github.com/etaaa/n8n-ai-agent-workflow)**: n8n workflow for an AI News Agent on Telegram. Explores low-code orchestration for LangChain primitives typically built in Python.
+- **[MCQ Pipeline](https://github.com/etaaa/mcq-pipeline)**: Automated MCQ generator and evaluator for lecture materials using LangChain.
+- **[MCP API Client](https://github.com/etaaa/mcp-api-client)**: Postman for LLMs: A resource-efficient MCP server for rapid REST API testing.
+- **[n8n AI Agent Workflow](https://github.com/etaaa/n8n-ai-agent-workflow)**: n8n workflow for an AI News Agent on Telegram.
 - **[httpez](https://github.com/etaaa/httpez)**: A lightweight and modern wrapper around net/http designed for simplicity.
-- **[Machine Learning Project](https://github.com/etaaa/machine-learning-project)**: University project for a machine learning model to classify Rocket League trickshots from gameplay data.
-- **[Software Engineering Project](https://github.com/etaaa/software-engineering-project)**: University project demonstrating a 4-layer software architecture using Java, Spring Boot, Angular, and SQL.
+- **[Machine Learning Project](https://github.com/etaaa/machine-learning-project)**: ML classifier for Rocket League trickshots (University project).
+- **[Software Engineering Project](https://github.com/etaaa/software-engineering-project)**: Full-stack university project demonstrating 4-layer software architecture.
 
 <!--
 **etaaa/etaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
