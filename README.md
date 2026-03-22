@@ -11,7 +11,7 @@ Computer science student @ TU Wien with specialization in AI & ML. Dedicated to 
 
 ### Relevant Projects
 
-- - **[reseed](https://github.com/nattergabriel/reseed)**: CLI tool for managing and distributing agent skills across projects
+- **[reseed](https://github.com/nattergabriel/reseed)**: CLI tool for managing and distributing agent skills across projects
 - **[Agentic RAG Chatbot](https://github.com/nattergabriel/agentic-rag-chatbot)**: Self-correcting RAG agent for high-precision medical catalog retrieval.
 - **[MCQ Pipeline](https://github.com/nattergabriel/mcq-pipeline)**: Automated MCQ generator and evaluator for lecture materials using LangChain.
 - **[PageContext](https://github.com/nattergabriel/pagecontext)**: Chrome extension to copy webpage content as clean LLM context. 
